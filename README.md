@@ -1,7 +1,7 @@
 Basic reverse proxy for local PM2 managed Node application
 
 Build:
-dotnet build
+`dotnet build`
 
 Publish:
-dotnet publish --configuration Release -o ./publish
+`dotnet publish --configuration Release -o ./publish`
